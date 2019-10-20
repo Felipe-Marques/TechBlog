@@ -162,8 +162,8 @@ h1 {
 .categorias {
 	
 	display: inline-block;
-	position: relative;
-	top:338px;
+	position: absolute;
+	top:324px;
 	background: white;
 	width: 210px;
 	padding: 10px;
