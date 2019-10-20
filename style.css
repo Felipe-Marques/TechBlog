@@ -123,8 +123,8 @@ h1 {
 	background: white;
 	width: 210px;
 	margin-left:15px;
+	margin-bottom:15px;
 	padding: 10px;
-	z-index: 1
 }
 
 .conteudo-secundario h4 {
